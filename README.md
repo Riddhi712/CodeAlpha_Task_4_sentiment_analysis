@@ -33,7 +33,7 @@ This project analyzes **355,807+ Facebook app reviews** to understand user senti
 
 ## 📈 Visualizations
 
-(https://raw.githubusercontent.com/Riddhi712/CodeAlpha_Task_4_sentiment_analysis/main/Facebook%20review.png)
+![Facebook Review](https://raw.githubusercontent.com/Riddhi712/CodeAlpha_Task_4_sentiment_analysis/main/Facebook%20review.png)
 
 **Left**: Most common words in **Negative Reviews**  
 **Right**: Most common words in **Positive Reviews**
