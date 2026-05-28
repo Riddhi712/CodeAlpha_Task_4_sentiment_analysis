@@ -2,7 +2,7 @@
 
 A comprehensive sentiment analysis of **Facebook Mobile App** reviews using Python, Pandas, and WordCloud visualization.
 
-![WordClouds](sentiment_wordclouds.png)
+[Facebook Review Analysis](https://github.com/Riddhi712/CodeAlpha_Task_4_sentiment_analysis/blob/main/Facebook%20review.png)
 
 ---
 
