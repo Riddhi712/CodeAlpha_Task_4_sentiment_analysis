@@ -67,3 +67,15 @@ python facebook_sentiment_analysis.py
 
 # 2. Run the analysis
 python facebook_sentiment_analysis.py
+
+
+---
+## Author
+
+**Shreya Tarafdar**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Riddhi712)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shreya-tarafdar-726b7430a/)
+
+
+---
