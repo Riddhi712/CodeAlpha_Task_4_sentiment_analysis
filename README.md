@@ -56,6 +56,16 @@ This project analyzes **355,807+ Facebook app reviews** to understand user senti
 - `sentiment_summary.csv` — Summary statistics
 
 ---
+---
+## Author
+
+**Shreya Tarafdar**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Riddhi712)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shreya-tarafdar-726b7430a/)
+
+
+---
 ## 🚀 How to Run
 
 ```bash
@@ -69,13 +79,4 @@ python facebook_sentiment_analysis.py
 python facebook_sentiment_analysis.py
 
 
----
-## Author
 
-**Shreya Tarafdar**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Riddhi712)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shreya-tarafdar-726b7430a/)
-
-
----
